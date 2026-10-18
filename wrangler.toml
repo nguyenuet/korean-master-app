@@ -5,4 +5,4 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "korean-learning-db"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "b0f80df8-2b3e-4cdb-862a-4d5832e081a8"
